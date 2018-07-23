@@ -1,8 +1,8 @@
-### Burger Builder Application ReactJS
+# Burger Builder Application ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-##How to start
+## How to start
 clone repo and then:
 ```
 npm install
